@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alienlab.SimpleGlass", "Alienlab.SimpleGlass\Alienlab.SimpleGlass.csproj", "{F673C891-9C9C-401A-ABC9-E843965EEF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alienlab.SimpleGlass.Tests", "Alienlab.SimpleGlass.Tests\Alienlab.SimpleGlass.Tests.csproj", "{C84ACBD4-0DDC-4CE5-9465-1BC104CA7CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F673C891-9C9C-401A-ABC9-E843965EEF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F673C891-9C9C-401A-ABC9-E843965EEF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F673C891-9C9C-401A-ABC9-E843965EEF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F673C891-9C9C-401A-ABC9-E843965EEF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C84ACBD4-0DDC-4CE5-9465-1BC104CA7CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84ACBD4-0DDC-4CE5-9465-1BC104CA7CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84ACBD4-0DDC-4CE5-9465-1BC104CA7CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84ACBD4-0DDC-4CE5-9465-1BC104CA7CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

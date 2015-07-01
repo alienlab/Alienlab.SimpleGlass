@@ -1,0 +1,7 @@
+/Alienlab.SimpleGlass.Tests/bin
+/Alienlab.SimpleGlass.Tests/obj
+*.suo
+*.user
+/Alienlab.SimpleGlass/bin
+/Alienlab.SimpleGlass/obj
+/packages
